@@ -1,9 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RandomEnemyGen.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PyroParticles\Prefab\Script\FireProjectileScript.cs">
     <Files>
-      <File FileName="Assets\Scripts\EnemyShoot.cs" Line="16" Column="39" />
-      <File FileName="Assets\Scripts\RandomEnemyGen.cs" Line="28" Column="99" />
+      <File FileName="Assets\Scripts\HPBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RandomEnemyGen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\PyroParticles\Prefab\Script\FireProjectileScript.cs" Line="83" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
