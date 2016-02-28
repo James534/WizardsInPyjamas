@@ -23,7 +23,7 @@ public class Player : MonoBehaviour {
         }
 	}
 
-    void hit()
+    public void hit()
     {
         curHp -= 5;
         if (curHp <= 0)
