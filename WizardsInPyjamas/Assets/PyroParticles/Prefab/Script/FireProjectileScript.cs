@@ -80,7 +80,7 @@ namespace DigitalRuby.PyroParticles
                 Player t = c.collider.gameObject.GetComponent<Player>();
                 t.hit();
             }else if(c.collider.name.Equals("Enemy(Clone)")){
-				c.collider.gameObject.GetComponent<Enemy>().hit ();
+				c.collider.gameObject.GetComponent<Enemy>().hit (1);
 			}
             else
             {
