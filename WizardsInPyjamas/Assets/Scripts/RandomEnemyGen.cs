@@ -24,9 +24,11 @@ public class RandomEnemyGen : MonoBehaviour {
 			lastTime = Time.time;
 			numEnemies++;
 			if(flying) {
-				Instantiate(model, player.transform.position + new Vector3(Random.value * 20 - 10, Random.value * 10, Random.value * 20 + 20), Quaternion.identity);
+				Vector3 pos = player.transform.position + new Vector3(Random.value * 20 - 10, Random.value * 10, Random.value * 20 + 20);
+				Instantiate(model, pos, Quaternion.LookRotation((player.transform.position - pos).normalized));
 			} else {
-				Instantiate(model, player.transform.position + new Vector3(Random.value * 20 - 10, 0, Random.value * 20 + 20), Quaternion.identity);
+				Vector3 pos = player.transform.position + new Vector3(Random.value * 20 - 10, 0, Random.value * 20 + 20);
+				Instantiate(model, pos, Quaternion.LookRotation((player.transform.position - pos).normalized));
 			}
 		}
 	}
