@@ -64,9 +64,6 @@ public class Enemy : MonoBehaviour {
             GameObject temp = Instantiate(projectile);
             temp.transform.position = pos;
             temp.transform.LookAt(player.transform.position);
-
-            SphereCollider temp2 = temp.GetComponent<SphereCollider>();
-            temp2.transform.SetParent(temp.transform);
             Attack();
         }
         if (curAnim != 0)

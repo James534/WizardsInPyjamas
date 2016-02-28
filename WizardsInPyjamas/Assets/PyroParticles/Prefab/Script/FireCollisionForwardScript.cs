@@ -24,7 +24,8 @@ namespace DigitalRuby.PyroParticles
             {
                 col.collider.gameObject.GetComponent<Enemy>().hit(0);
             }
-            CollisionHandler.HandleCollision(gameObject, col);
+            //CollisionHandler.HandleCollision(gameObject, col);
+            CollisionHandler.HandleCollision(this.gameObject, col);
         }
     }
 }

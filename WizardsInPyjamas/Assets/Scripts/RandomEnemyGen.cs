@@ -23,14 +23,19 @@ public class RandomEnemyGen : MonoBehaviour {
 		if(Time.time > secondsPerSpawn + lastTime && numEnemies < maxEnemies) {
 			lastTime = Time.time;
 			numEnemies++;
+            Vector3 pos;
 			if(flying) {
-				Vector3 pos = player.transform.position + new Vector3(Random.value * 20 - 10, Random.value * 10, Random.value * 20 + 20);
-				Instantiate(model, pos, Quaternion.LookRotation((player.transform.position - pos).normalized));
+				pos = player.transform.position + new Vector3(Random.value * 20 - 10, Random.value * 10, Random.value * 20 + 20);				
 			} else {
-				Vector3 pos = player.transform.position + new Vector3(Random.value * 20 - 10, 0, Random.value * 20 + 20);
-				Instantiate(model, pos, Quaternion.LookRotation((player.transform.position - pos).normalized));
+				pos = player.transform.position + new Vector3(Random.value * 20 - 10, 0, Random.value * 20 + 20);
 			}
-		}
+            GameObject t = Instantiate(model);
+            //pos, Quaternion.LookRotation((player.transform.position - pos).normalized));
+            t.transform.position = pos;
+            t.transform.rotation = Quaternion.Euler(0, 270, 0);
+            //t.transform.LookAt(player.transform);
+
+        }
 	}
 
 	public void kill(GameObject e) {

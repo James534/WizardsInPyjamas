@@ -49,6 +49,7 @@ namespace DigitalRuby.PyroParticles
         public FireProjectileCollisionDelegate CollisionDelegate;
 
         private bool collided;
+        Vector3 before;
 
         private IEnumerator SendCollisionAfterDelay()
         {
@@ -64,6 +65,9 @@ namespace DigitalRuby.PyroParticles
             base.Start();
 
             StartCoroutine(SendCollisionAfterDelay());
+            before = transform.position;
+            Debug.Log("Start");
+            Debug.Log(transform.position);
         }
 
         public void HandleCollision(GameObject obj, Collision c)
@@ -74,16 +78,32 @@ namespace DigitalRuby.PyroParticles
                 // already collided, don't do anything
                 return;
             }
-            if (c.collider.name.Equals("Player"))
+
+            if ((obj.transform.position - before).z < 0)
             {
-                Player t = c.collider.gameObject.GetComponent<Player>();
-                t.hit();
-			}else if(c.collider.name.Equals("Enemy(Clone)") && this.name.Equals("Fireball(Clone)")){
-				c.collider.gameObject.GetComponent<Enemy>().hit (1);
-			}
+                if (c.collider.name.Equals("Player"))
+                {
+                    Player t = c.collider.gameObject.GetComponent<Player>();
+                    t.hit();
+                }
+                else if (c.collider.name.Equals("Shield"))
+                {
+
+                }
+                else
+                {
+                    return;
+                }
+            }
             else
             {
-                return;
+                if (c.collider.name.Equals("Enemy(Clone)"))
+                {
+                    c.collider.gameObject.GetComponent<Enemy>().hit(1);
+                }
+                else {
+                    return;
+                }
             }
 
             // stop the projectile
@@ -95,7 +115,7 @@ namespace DigitalRuby.PyroParticles
             {
                 foreach (ParticleSystem p in ProjectileDestroyParticleSystemsOnCollision)
                 {
-                    GameObject.Destroy(p, 0.1f);
+                    GameObject.Destroy(p, 0.005f);
                 }
             }
 
