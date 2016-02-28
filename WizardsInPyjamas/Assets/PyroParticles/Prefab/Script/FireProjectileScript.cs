@@ -74,6 +74,8 @@ namespace DigitalRuby.PyroParticles
                 return;
             }
 
+            Debug.Log(c.collider);
+
             // stop the projectile
             collided = true;
             Stop();

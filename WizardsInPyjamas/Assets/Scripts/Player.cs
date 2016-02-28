@@ -3,6 +3,9 @@ using System.Collections;
 
 public class Player : MonoBehaviour {
 
+    public float maxHp = 100;
+    public float curHp = 100;
+
 	// Use this for initialization
 	void Start () {
 	
@@ -19,4 +22,14 @@ public class Player : MonoBehaviour {
             transform.position = tempVec;
         }
 	}
+
+    void hit()
+    {
+        curHp -= 5;
+        if (curHp <= 0)
+        {
+            curHp = 0;
+            Debug.Log("Player is dead");
+        }
+    }
 }

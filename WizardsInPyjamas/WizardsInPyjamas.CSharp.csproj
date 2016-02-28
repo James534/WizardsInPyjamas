@@ -72,6 +72,9 @@
     <Compile Include="Assets\PyroParticles\Prefab\Script\MeteorSwarmScript.cs" />
     <Compile Include="Assets\PyroParticles\Prefab\Script\SingleLineAttribute.cs" />
     <Compile Include="Assets\Scripts\CreateEffect.cs" />
+    <Compile Include="Assets\Scripts\EnemyMove.cs" />
+    <Compile Include="Assets\Scripts\EnemyShoot.cs" />
+    <Compile Include="Assets\Scripts\HPBar.cs" />
     <Compile Include="Assets\Scripts\ListenClient.cs" />
     <Compile Include="Assets\Scripts\Orb.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
