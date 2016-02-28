@@ -32,4 +32,9 @@ public class RandomEnemyGen : MonoBehaviour {
 			}
 		}
 	}
+
+	public void kill(GameObject e) {
+		Destroy (e, 0);
+		numEnemies--;
+	}
 }
