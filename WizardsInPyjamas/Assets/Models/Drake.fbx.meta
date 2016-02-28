@@ -235,7 +235,1157 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand
+      takeName: Stand
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: drake
+        weight: 1
+      - path: drake 1
+        weight: 1
+      - path: drake 1/drake_bone_0
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_3
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4/drake_bone_16
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4/drake_bone_16/drake_bone_19
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4/drake_bone_16/drake_bone_19/drake_bone_25
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_5
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_6
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_7
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_8
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_9
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_10
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_11
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_12
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_13
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14/drake_bone_17
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14/drake_bone_17/drake_bone_20
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14/drake_bone_17/drake_bone_20/drake_bone_26
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_82
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28/drake_bone_33
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28/drake_bone_33/drake_bone_38
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28/drake_bone_33/drake_bone_38/drake_bone_92
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29/drake_bone_34
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29/drake_bone_34/drake_bone_39
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29/drake_bone_34/drake_bone_39/drake_bone_93
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_40
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_40/drake_bone_56
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_40/drake_bone_56/drake_bone_67
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_41
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_41/drake_bone_57
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_41/drake_bone_57/drake_bone_68
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_42
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_42/drake_bone_58
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_42/drake_bone_58/drake_bone_69
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_43
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_43/drake_bone_59
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_43/drake_bone_59/drake_bone_70
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_44
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_44/drake_bone_60
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_45
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_46
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_47
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_47/drake_bone_61
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_47/drake_bone_61/drake_bone_71
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_48
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_48/drake_bone_62
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_48/drake_bone_62/drake_bone_72
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_49
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_49/drake_bone_63
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_49/drake_bone_63/drake_bone_73
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_50
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_50/drake_bone_64
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_50/drake_bone_64/drake_bone_74
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_51
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_51/drake_bone_65
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_52
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_53
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_54
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_55
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_55/drake_bone_66
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_55/drake_bone_66/drake_bone_75
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_91
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_94
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_95
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_96
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_97
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_89
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_90
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_88
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_81
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_83
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_84
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_85
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_86
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_87
+        weight: 1
+      - path: drake 1/drake_bone_76
+        weight: 1
+      - path: drake 1/drake_bone_77
+        weight: 1
+      - path: drake 1/drake_bone_78
+        weight: 1
+      - path: drake 1/drake_bone_79
+        weight: 1
+      - path: drake 1/drake_bone_80
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: drake
+        weight: 1
+      - path: drake 1
+        weight: 1
+      - path: drake 1/drake_bone_0
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_3
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4/drake_bone_16
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4/drake_bone_16/drake_bone_19
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4/drake_bone_16/drake_bone_19/drake_bone_25
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_5
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_6
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_7
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_8
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_9
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_10
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_11
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_12
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_13
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14/drake_bone_17
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14/drake_bone_17/drake_bone_20
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14/drake_bone_17/drake_bone_20/drake_bone_26
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_82
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28/drake_bone_33
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28/drake_bone_33/drake_bone_38
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28/drake_bone_33/drake_bone_38/drake_bone_92
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29/drake_bone_34
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29/drake_bone_34/drake_bone_39
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29/drake_bone_34/drake_bone_39/drake_bone_93
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_40
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_40/drake_bone_56
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_40/drake_bone_56/drake_bone_67
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_41
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_41/drake_bone_57
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_41/drake_bone_57/drake_bone_68
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_42
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_42/drake_bone_58
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_42/drake_bone_58/drake_bone_69
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_43
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_43/drake_bone_59
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_43/drake_bone_59/drake_bone_70
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_44
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_44/drake_bone_60
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_45
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_46
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_47
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_47/drake_bone_61
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_47/drake_bone_61/drake_bone_71
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_48
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_48/drake_bone_62
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_48/drake_bone_62/drake_bone_72
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_49
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_49/drake_bone_63
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_49/drake_bone_63/drake_bone_73
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_50
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_50/drake_bone_64
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_50/drake_bone_64/drake_bone_74
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_51
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_51/drake_bone_65
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_52
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_53
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_54
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_55
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_55/drake_bone_66
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_55/drake_bone_66/drake_bone_75
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_91
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_94
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_95
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_96
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_97
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_89
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_90
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_88
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_81
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_83
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_84
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_85
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_86
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_87
+        weight: 1
+      - path: drake 1/drake_bone_76
+        weight: 1
+      - path: drake 1/drake_bone_77
+        weight: 1
+      - path: drake 1/drake_bone_78
+        weight: 1
+      - path: drake 1/drake_bone_79
+        weight: 1
+      - path: drake 1/drake_bone_80
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Run
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: drake
+        weight: 1
+      - path: drake 1
+        weight: 1
+      - path: drake 1/drake_bone_0
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_3
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4/drake_bone_16
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4/drake_bone_16/drake_bone_19
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4/drake_bone_16/drake_bone_19/drake_bone_25
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_5
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_6
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_7
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_8
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_9
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_10
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_11
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_12
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_13
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14/drake_bone_17
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14/drake_bone_17/drake_bone_20
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14/drake_bone_17/drake_bone_20/drake_bone_26
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_82
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28/drake_bone_33
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28/drake_bone_33/drake_bone_38
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28/drake_bone_33/drake_bone_38/drake_bone_92
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29/drake_bone_34
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29/drake_bone_34/drake_bone_39
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29/drake_bone_34/drake_bone_39/drake_bone_93
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_40
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_40/drake_bone_56
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_40/drake_bone_56/drake_bone_67
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_41
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_41/drake_bone_57
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_41/drake_bone_57/drake_bone_68
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_42
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_42/drake_bone_58
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_42/drake_bone_58/drake_bone_69
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_43
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_43/drake_bone_59
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_43/drake_bone_59/drake_bone_70
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_44
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_44/drake_bone_60
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_45
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_46
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_47
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_47/drake_bone_61
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_47/drake_bone_61/drake_bone_71
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_48
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_48/drake_bone_62
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_48/drake_bone_62/drake_bone_72
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_49
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_49/drake_bone_63
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_49/drake_bone_63/drake_bone_73
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_50
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_50/drake_bone_64
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_50/drake_bone_64/drake_bone_74
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_51
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_51/drake_bone_65
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_52
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_53
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_54
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_55
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_55/drake_bone_66
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_55/drake_bone_66/drake_bone_75
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_91
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_94
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_95
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_96
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_97
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_89
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_90
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_88
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_81
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_83
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_84
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_85
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_86
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_87
+        weight: 1
+      - path: drake 1/drake_bone_76
+        weight: 1
+      - path: drake 1/drake_bone_77
+        weight: 1
+      - path: drake 1/drake_bone_78
+        weight: 1
+      - path: drake 1/drake_bone_79
+        weight: 1
+      - path: drake 1/drake_bone_80
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackUnarmed
+      takeName: AttackUnarmed
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: drake
+        weight: 1
+      - path: drake 1
+        weight: 1
+      - path: drake 1/drake_bone_0
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_3
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4/drake_bone_16
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4/drake_bone_16/drake_bone_19
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4/drake_bone_16/drake_bone_19/drake_bone_25
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_5
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_6
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_7
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_8
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_9
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_10
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_11
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_12
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_13
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14/drake_bone_17
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14/drake_bone_17/drake_bone_20
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14/drake_bone_17/drake_bone_20/drake_bone_26
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_82
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28/drake_bone_33
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28/drake_bone_33/drake_bone_38
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28/drake_bone_33/drake_bone_38/drake_bone_92
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29/drake_bone_34
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29/drake_bone_34/drake_bone_39
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29/drake_bone_34/drake_bone_39/drake_bone_93
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_40
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_40/drake_bone_56
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_40/drake_bone_56/drake_bone_67
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_41
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_41/drake_bone_57
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_41/drake_bone_57/drake_bone_68
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_42
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_42/drake_bone_58
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_42/drake_bone_58/drake_bone_69
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_43
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_43/drake_bone_59
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_43/drake_bone_59/drake_bone_70
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_44
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_44/drake_bone_60
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_45
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_46
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_47
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_47/drake_bone_61
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_47/drake_bone_61/drake_bone_71
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_48
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_48/drake_bone_62
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_48/drake_bone_62/drake_bone_72
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_49
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_49/drake_bone_63
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_49/drake_bone_63/drake_bone_73
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_50
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_50/drake_bone_64
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_50/drake_bone_64/drake_bone_74
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_51
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_51/drake_bone_65
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_52
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_53
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_54
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_55
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_55/drake_bone_66
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_55/drake_bone_66/drake_bone_75
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_91
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_94
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_95
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_96
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_97
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_89
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_90
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_88
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_81
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_83
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_84
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_85
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_86
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_87
+        weight: 1
+      - path: drake 1/drake_bone_76
+        weight: 1
+      - path: drake 1/drake_bone_77
+        weight: 1
+      - path: drake 1/drake_bone_78
+        weight: 1
+      - path: drake 1/drake_bone_79
+        weight: 1
+      - path: drake 1/drake_bone_80
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Death
+      firstFrame: 0
+      lastFrame: 78
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: drake
+        weight: 1
+      - path: drake 1
+        weight: 1
+      - path: drake 1/drake_bone_0
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_3
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4/drake_bone_16
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4/drake_bone_16/drake_bone_19
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_4/drake_bone_16/drake_bone_19/drake_bone_25
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_5
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_6
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_7
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_8
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_9
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_10
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_11
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_12
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_13
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14/drake_bone_17
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14/drake_bone_17/drake_bone_20
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_14/drake_bone_17/drake_bone_20/drake_bone_26
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_1/drake_bone_82
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28/drake_bone_33
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28/drake_bone_33/drake_bone_38
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_28/drake_bone_33/drake_bone_38/drake_bone_92
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29/drake_bone_34
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29/drake_bone_34/drake_bone_39
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_21/drake_bone_29/drake_bone_34/drake_bone_39/drake_bone_93
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_40
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_40/drake_bone_56
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_40/drake_bone_56/drake_bone_67
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_41
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_41/drake_bone_57
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_41/drake_bone_57/drake_bone_68
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_42
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_42/drake_bone_58
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_42/drake_bone_58/drake_bone_69
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_43
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_43/drake_bone_59
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_43/drake_bone_59/drake_bone_70
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_44
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_44/drake_bone_60
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_45
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_22/drake_bone_30/drake_bone_35/drake_bone_46
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_47
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_47/drake_bone_61
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_47/drake_bone_61/drake_bone_71
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_48
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_48/drake_bone_62
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_48/drake_bone_62/drake_bone_72
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_49
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_49/drake_bone_63
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_49/drake_bone_63/drake_bone_73
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_50
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_50/drake_bone_64
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_50/drake_bone_64/drake_bone_74
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_51
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_51/drake_bone_65
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_52
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_23/drake_bone_31/drake_bone_36/drake_bone_53
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_54
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_55
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_55/drake_bone_66
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_55/drake_bone_66/drake_bone_75
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_91
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_94
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_95
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_96
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_37/drake_bone_97
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_89
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_32/drake_bone_90
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_15/drake_bone_18/drake_bone_24/drake_bone_27/drake_bone_88
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_81
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_83
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_84
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_85
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_86
+        weight: 1
+      - path: drake 1/drake_bone_0/drake_bone_2/drake_bone_87
+        weight: 1
+      - path: drake 1/drake_bone_76
+        weight: 1
+      - path: drake 1/drake_bone_77
+        weight: 1
+      - path: drake 1/drake_bone_78
+        weight: 1
+      - path: drake 1/drake_bone_79
+        weight: 1
+      - path: drake 1/drake_bone_80
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
