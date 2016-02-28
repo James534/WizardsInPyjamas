@@ -28,6 +28,7 @@ public class CreateEffect : MonoBehaviour {
         {
             currentSpecial = GameObject.Instantiate(special);
             currentSpecial.transform.position = transform.position + new Vector3(0,0,30);
+            p.curMana -= p.maxMana;
         }
     }
 }
