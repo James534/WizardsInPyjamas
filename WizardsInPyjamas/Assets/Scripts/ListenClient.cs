@@ -45,10 +45,10 @@ public class ListenClient : MonoBehaviour
             try
             {
                 Socket soc = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-                System.Net.IPAddress ipAdd = System.Net.IPAddress.Parse("localhost");
+                System.Net.IPAddress ipAdd = System.Net.IPAddress.Parse("192.168.43.200");
                 System.Net.IPEndPoint remoteEP = new IPEndPoint(ipAdd, 1234);
-                soc.ReceiveTimeout = 1000;
-                soc.SendTimeout = 1000;
+                //soc.ReceiveTimeout = 5000;
+                soc.SendTimeout = 5000;
                 soc.Connect(remoteEP);
                 soc.Send(System.Text.Encoding.ASCII.GetBytes("Output\n"));
                 while (running)
