@@ -20,10 +20,6 @@ namespace DigitalRuby.PyroParticles
 
         public void OnCollisionEnter(Collision col)
         {
-            if (col.collider.name.Equals("Enemy(Clone)") && this.name.Equals("Meteor(Clone)"))
-            {
-                col.collider.gameObject.GetComponent<Enemy>().hit(0);
-            }
             //CollisionHandler.HandleCollision(gameObject, col);
             CollisionHandler.HandleCollision(this.gameObject, col);
         }

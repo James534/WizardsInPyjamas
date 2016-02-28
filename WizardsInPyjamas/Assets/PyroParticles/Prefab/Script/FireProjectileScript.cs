@@ -78,32 +78,38 @@ namespace DigitalRuby.PyroParticles
                 // already collided, don't do anything
                 return;
             }
-
-            if ((obj.transform.position - before).z < 0)
+            if (name.Equals("Firebolt(Clone)"))
             {
-                if (c.collider.name.Equals("Player"))
+                if ((obj.transform.position - before).z < 0)
                 {
-                    Player t = c.collider.gameObject.GetComponent<Player>();
-                    t.hit();
-                }
-                else if (c.collider.name.Equals("Shield"))
-                {
+                    if (c.collider.name.Equals("Player"))
+                    {
+                        Player t = c.collider.gameObject.GetComponent<Player>();
+                        t.hit();
+                    }
+                    else if (c.collider.name.Equals("Shield"))
+                    {
 
+                    }
+                    else
+                    {
+                        return;
+                    }
                 }
                 else
                 {
-                    return;
+                    if (c.collider.name.Equals("Enemy(Clone)"))
+                    {
+                        c.collider.gameObject.GetComponent<Enemy>().hit(1);
+                    }
+                    else {
+                        return;
+                    }
                 }
             }
             else
             {
-                if (c.collider.name.Equals("Enemy(Clone)"))
-                {
-                    c.collider.gameObject.GetComponent<Enemy>().hit(1);
-                }
-                else {
-                    return;
-                }
+                Debug.Log(name);
             }
 
             // stop the projectile

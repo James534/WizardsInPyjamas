@@ -6,7 +6,7 @@ public class Player : MonoBehaviour {
     public float maxHp = 100;
     public float curHp = 100;
     public float maxMana = 10;
-    public float curMana = 0;
+    public float curMana = 15;
 
     // Use this for initialization
     void Start () {
@@ -39,5 +39,7 @@ public class Player : MonoBehaviour {
     public void addMana(int i)
     {
         curMana += i;
+        if (curMana > maxMana)
+            curMana = maxMana;
     }
 }

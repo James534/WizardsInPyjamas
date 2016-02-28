@@ -171,6 +171,13 @@ namespace DigitalRuby.PyroParticles
 
         public void HandleCollision(GameObject obj, Collision col)
         {
+
+            if (col.collider.name.Equals("Enemy(Clone)"))
+            {
+                Enemy e = col.collider.GetComponent<Enemy>();
+                e.hit(1);
+            }
+
             Renderer r = obj.GetComponent<Renderer>();
             if (r == null)
             {
