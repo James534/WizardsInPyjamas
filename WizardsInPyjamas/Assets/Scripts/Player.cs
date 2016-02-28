@@ -5,9 +5,11 @@ public class Player : MonoBehaviour {
 
     public float maxHp = 100;
     public float curHp = 100;
+    public float maxMana = 10;
+    public float curMana = 0;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
 	
 	}
 	
@@ -31,5 +33,10 @@ public class Player : MonoBehaviour {
             curHp = 0;
             Debug.Log("Player is dead");
         }
+    }
+
+    public void addMana(int i)
+    {
+        curMana += i;
     }
 }

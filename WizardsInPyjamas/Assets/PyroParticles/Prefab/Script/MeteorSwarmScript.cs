@@ -124,7 +124,7 @@ namespace DigitalRuby.PyroParticles
 
         private void SpawnMeteors()
         {
-            int count = (int)UnityEngine.Random.Range(MeteorsPerSecondRange.Minimum, MeteorsPerSecondRange.Maximum);
+            int count = 3 * (int)UnityEngine.Random.Range(MeteorsPerSecondRange.Minimum, MeteorsPerSecondRange.Maximum);
             for (int i = 0; i < count; i++)
             {
                 StartCoroutine(SpawnMeteor());

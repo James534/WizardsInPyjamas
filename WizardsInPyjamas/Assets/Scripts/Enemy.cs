@@ -7,15 +7,17 @@ public class Enemy : MonoBehaviour {
 	public int minShotInterval;
 	public float damage;
 	public float angleVariance;
+    Player p;
 	
-	private GameObject player;
+	public GameObject player;
 	private float lastTime;
 	
 	// Use this for initialization
 	void Start () {
 		lastTime = Time.time;
-		player = GameObject.Find ("Player");
-	}
+        player = GameObject.Find ("Player");
+        p = player.GetComponent<Player>();
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -27,8 +29,9 @@ public class Enemy : MonoBehaviour {
 		}
 	}
 
-	public void hit()
+	public void hit(int mana)
 	{
 		GameObject.Find ("GameObject").gameObject.GetComponent<RandomEnemyGen> ().kill (this.gameObject);
+        p.addMana(mana);
 	}
 }
