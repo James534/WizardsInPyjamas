@@ -1,10 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Player : MonoBehaviour {
-
-    public float maxHp = 100;
-    public float curHp = 100;
+public class Shield : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
@@ -13,24 +10,14 @@ public class Player : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	    if (ListenClient.pos != null)
+        if (ListenClient.pos != null)
         {
             //Debug.Log(ListenClient.pos);
-            string temp = ListenClient.pos.Split('@')[1];
+            string temp = ListenClient.pos.Split('@')[0];
             string[] tempStr = temp.Split(' ');
             Vector3 tempVec = new Vector3(float.Parse(tempStr[0]) * 5, float.Parse(tempStr[1]), float.Parse(tempStr[2]) * 5);
-            //Debug.Log(tempVec.x + " " + tempVec.y + " "+tempVec.z);
+            //Debug.Log(tempVec.x + " " + tempVec.y + " " + tempVec.z);
             transform.position = tempVec;
-        }
-	}
-
-    public void hit()
-    {
-        curHp -= 5;
-        if (curHp <= 0)
-        {
-            curHp = 0;
-            Debug.Log("Player is dead");
         }
     }
 }
