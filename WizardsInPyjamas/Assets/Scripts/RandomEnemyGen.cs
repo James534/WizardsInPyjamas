@@ -4,7 +4,7 @@ using System.Collections;
 public class RandomEnemyGen : MonoBehaviour {
 
 	public GameObject player;
-	public GameObject model;
+	private GameObject model;
 	public float secondsPerSpawn;
 	public int maxEnemies;
 	public bool flying;
@@ -16,7 +16,8 @@ public class RandomEnemyGen : MonoBehaviour {
 	void Start () {
 		lastTime = Time.time;
 		numEnemies = 0;
-	}
+        model = (GameObject) Resources.Load("Enemy");
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -25,9 +26,9 @@ public class RandomEnemyGen : MonoBehaviour {
 			numEnemies++;
             Vector3 pos;
 			if(flying) {
-				pos = player.transform.position + new Vector3(Random.value * 20 - 10, Random.value * 10, Random.value * 20 + 20);				
+				pos = player.transform.position + new Vector3(Random.value * 20 - 10, Random.value * 10, Random.Range(20, 40));
 			} else {
-				pos = player.transform.position + new Vector3(Random.value * 20 - 10, 0, Random.value * 20 + 20);
+				pos = player.transform.position + new Vector3(Random.Range(-10,10), 0, Random.Range(30, 50));
 			}
             GameObject t = Instantiate(model);
             //pos, Quaternion.LookRotation((player.transform.position - pos).normalized));

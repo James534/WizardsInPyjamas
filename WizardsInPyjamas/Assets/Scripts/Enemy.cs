@@ -59,7 +59,7 @@ public class Enemy : MonoBehaviour {
 	void Update () {
 		if (Time.time > minShotInterval + lastTime + Random.value * 6 - 3) {
 			lastTime = Time.time;
-			Vector3 pos = transform.position + transform.forward*2;
+			Vector3 pos = transform.position + transform.eulerAngles.normalized * 4;
 			Vector3 rand = new Vector3(Random.value * angleVariance - angleVariance/2, Random.value * angleVariance - angleVariance/2, Random.value * angleVariance - angleVariance/2);
             GameObject temp = Instantiate(projectile);
             temp.transform.position = pos;
@@ -97,6 +97,6 @@ public class Enemy : MonoBehaviour {
     public void hit(int mana)
 	{
 		GameObject.Find ("GameObject").gameObject.GetComponent<RandomEnemyGen> ().kill (this.gameObject);
-        p.addMana(mana);
+        p.addMana(1);
 	}
 }

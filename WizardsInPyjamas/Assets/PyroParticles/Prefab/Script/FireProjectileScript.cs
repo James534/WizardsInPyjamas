@@ -66,8 +66,8 @@ namespace DigitalRuby.PyroParticles
 
             StartCoroutine(SendCollisionAfterDelay());
             before = transform.position;
-            Debug.Log("Start");
-            Debug.Log(transform.position);
+            //Debug.Log("Start");
+            //Debug.Log(transform.position);
         }
 
         public void HandleCollision(GameObject obj, Collision c)
@@ -80,8 +80,6 @@ namespace DigitalRuby.PyroParticles
             }
             if (name.Equals("Firebolt(Clone)"))
             {
-                if ((obj.transform.position - before).z < 0)
-                {
                     if (c.collider.name.Equals("Player"))
                     {
                         Player t = c.collider.gameObject.GetComponent<Player>();
@@ -95,16 +93,15 @@ namespace DigitalRuby.PyroParticles
                     {
                         return;
                     }
-                }
-                else
+            }else if (name.Equals("Fireball(Clone)"))
+            {
+                Debug.Log("HELLO");
+                if (c.collider.name.Equals("Enemy(Clone)"))
                 {
-                    if (c.collider.name.Equals("Enemy(Clone)"))
-                    {
-                        c.collider.gameObject.GetComponent<Enemy>().hit(1);
-                    }
-                    else {
-                        return;
-                    }
+                    c.collider.gameObject.GetComponent<Enemy>().hit(1);
+                }
+                else {
+                    return;
                 }
             }
             else

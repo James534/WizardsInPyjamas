@@ -46,7 +46,7 @@ public class ListenClient : MonoBehaviour
             {
                 Socket soc = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
                 System.Net.IPAddress ipAdd = System.Net.IPAddress.Parse("127.0.0.1");
-                System.Net.IPEndPoint remoteEP = new IPEndPoint(ipAdd, 1234);
+                System.Net.IPEndPoint remoteEP = new IPEndPoint(ipAdd, 1111);
                 //soc.ReceiveTimeout = 5000;
                 //soc.SendTimeout = 5000;
                 soc.Connect(remoteEP);
